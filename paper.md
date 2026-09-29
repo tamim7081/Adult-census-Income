@@ -38,11 +38,11 @@ Figure 1 shows a strong, monotonic relationship between educational attainment a
 
 Figure 2 shows that individuals earning above $50,000 tend to be noticeably older, with a higher median age and a narrower interquartile range than the lower-income group, consistent with income rising over the course of a career.
 
-![Figure 2: Age distribution by income class](figures/fig2_age_income.png)
+![Figure 2: Age distribution by income class]([figures/fig2_age_income.png](https://github.com/tamim7081/Adult-census-Income/blob/main/fig2_age_income.png?raw=true)https://github.com/tamim7081/Adult-census-Income/blob/main/fig3_hours_income.png?raw=true)
 
 Figure 3 shows a similar pattern for hours worked: high earners are concentrated around and above the standard 40-hour work week, with a visibly fatter right tail, while lower earners show a wider, flatter distribution including a large share working fewer than 40 hours.
 
-![Figure 3: Weekly hours worked by income class](figures/fig3_hours_income.png)
+![Figure 3: Weekly hours worked by income class]([figures/fig3_hours_income.png](https://github.com/tamim7081/Adult-census-Income/blob/main/fig3_hours_income.png?raw=true)https://github.com/tamim7081/Adult-census-Income/blob/main/fig4_feature_importance.png?raw=true)
 
 ### Model performance
 
@@ -57,7 +57,7 @@ Random Forest achieved higher accuracy, precision, and ROC AUC than Logistic Reg
 
 Figure 4 shows the ten most important features for the Random Forest model. Relationship status (particularly whether an individual is a husband or wife), capital gains, age, marital status, and education level are the strongest predictors, while race, native country, and workclass contribute comparatively little.
 
-![Figure 4: Top 10 feature importances, Random Forest](figures/fig4_feature_importance.png)
+![Figure 4: Top 10 feature importances, Random Forest]([figures/fig4_feature_importance.png](https://github.com/tamim7081/Adult-census-Income/blob/main/fig4_feature_importance.png?raw=true))
 
 ## Discussion
 
