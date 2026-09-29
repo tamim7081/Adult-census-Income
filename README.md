@@ -11,7 +11,7 @@ A supervised learning study on the [UCI Adult / Census Income dataset](https://a
 | 📄 Paper | [`paper.md`](./paper.md)  | Abstract, introduction, methodology, results, discussion, conclusion, and references |
 | 📓 Notebook | [`income_analysis.ipynb`](income_analysis.ipynb) | Full analysis: data cleaning, EDA charts, and model training/evaluation |
 | 🖼️ Slides | [`income_presentation.pptx`](income_presentation.pptx) | 6-slide presentation — Problem, Method, Results, Takeaway |
-| 📊 Figures | [`figures`](./figures/) | Generated charts (PNG) and model results (CSV) used in the paper and slides |
+| 📊 Figures | [`figures`](fig1_education_income.png) | Generated charts (PNG) and model results (CSV) used in the paper and slides |
 
 ## Summary
 
