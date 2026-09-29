@@ -34,7 +34,7 @@ This study builds on that literature in two ways: first, by re-confirming, on a 
 
 Figure 1 shows a strong, monotonic relationship between educational attainment and the likelihood of earning more than $50,000 per year: the share of high earners rises from near 0% for those with only a preschool or early-elementary education to roughly 42% for Bachelor's degree holders and 75% for those with a doctorate or professional degree.
 
-![Figure 1: Share earning >$50K by education level](figures/fig1_education_income.png)
+![Figure 1: Share earning >$50K by education level](https://github.com/tamim7081/Adult-census-Income/blob/main/fig1_education_income.png?raw=true)
 
 Figure 2 shows that individuals earning above $50,000 tend to be noticeably older, with a higher median age and a narrower interquartile range than the lower-income group, consistent with income rising over the course of a career.
 
